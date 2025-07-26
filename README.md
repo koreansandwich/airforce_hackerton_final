@@ -1,1 +1,1 @@
-# airforce_hackerton_final
+🌀 유사 일기도 탐색기법 개발 (Task 1 – 제7회 공군 AI 해커톤 본선)
